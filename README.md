@@ -1,4 +1,4 @@
-#About Dataset
+# About Dataset
 
 This dataset, obtained via the Google Jobs API through SerpAPI, contains comprehensive information about job offers for data scientists in companies across the United States. The dataset includes key details such as job titles, company names, locations, job descriptions, salary ranges, and other pertinent information. 
 
