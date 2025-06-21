@@ -62,9 +62,3 @@ While this dataset provides a substantial snapshot of the U.S. data science job 
 - **Skill Gap Analysis** between job requirements and candidate profiles
 
 ---
-
-
-## ✍️ Author
-
-Developed by **[Your Name]**  
-Feel free to contribute, fork, or reach out for collaboration!
